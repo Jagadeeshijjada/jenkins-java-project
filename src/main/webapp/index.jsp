@@ -12,7 +12,7 @@
         <a href="#"><img src="images/logo.svg" alt="logo"></a>
     </nav>
     <div class="form-wrapper">
-    <h2>NETFLIX SIGN IN V-1.0</h2>
+    <h2>NETFLIX SIGN IN V-5.0</h2>
         <form action="#">
             <div class="form-control">
                 <input type="text" required>
@@ -31,7 +31,7 @@
                 <a href="#">Need help?</a>
             </div>
         </form>
-        <p>New to Netflix? <a href="#">Sign up now</a></p>
+        <p>New to Netflix? <a href="#">Register now</a></p>
         <small>
             This page is protected by Google reCAPTCHA to ensure you're not a bot. 
             <a href="#">Learn more.</a>
